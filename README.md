@@ -147,8 +147,6 @@ This project helped in strengthening:
 
 * Computer Science Graduate
 
-* Aspiring Data Analyst
-
 * Data Analytics
 
 * Frontend Developer
