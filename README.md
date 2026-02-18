@@ -149,7 +149,9 @@ This project helped in strengthening:
 
 * Aspiring Data Analyst
 
-* Data Analytics 
+* Data Analytics
+
+* Frontend Developer
 
 ---
 
