@@ -97,6 +97,8 @@ The project is based on the following main tables:
 ✔ Rock genre dominates in multiple countries
 
 ---
+<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/6b7adc38-980a-4502-aba6-f88e45f87bb1" />
+
 
 ## 📁 Project Structure:
 
